@@ -2,6 +2,10 @@
 <h5 align="center">Sou um entusiasta de tecnologia vivendo em Cuiabá - MT. <br/>
   Atualmente trabalhando como engenheiro de software na Agion Tecnologia!</h5> 
  
+<p align="center">
+<img src="https://i.giphy.com/media/xTiTnumdcQABBLgM92/giphy.webp" alt="art gif"/>
+</p>
+  
 <!--
 **victorseibert/victorseibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
