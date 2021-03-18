@@ -1,22 +1,9 @@
 <h3 align="center">Olá 👋</h3>
-<h5 align="center">Sou um entusiasta de tecnologia vivendo em Cuiabá - MT. <br/>
-  Atualmente trabalhando como engenheiro de software na Agion Tecnologia!</h5> 
- 
+<h5 align="center">Sou um entusiasta de tecnologia vivendo em Cuiabá <br/>
+  Atualmente trabalhando como engenheiro de software na Agion Tecnologia 🐱‍👤</h5> 
 <p align="center">
-<img src="https://i.giphy.com/media/xTiTnumdcQABBLgM92/giphy.webp" alt="art gif"/>
+<img width="333" src="https://i.giphy.com/media/xTiTnumdcQABBLgM92/giphy.webp" alt="art gif"/>
 </p>
-  
-<!--
-**victorseibert/victorseibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Desenvolvendo produtos na área da saúde, segurança da informação, gestão, automação e sempre aberto a desafios!
+🌱 Sempre melhorando em Ruby on Rails, ReactJS, Native, node, Python, devOps, vi, linux, cloud, design  etc
+😄 E querendo me entender com IA, ciência de dados, doido pra fazer maratonas e colocar minhas ideias em prática
